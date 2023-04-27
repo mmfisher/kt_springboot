@@ -31,3 +31,5 @@ build/
 
 ### VS Code ###
 .vscode/
+/.mvn/
+docker pull registry.cn-chengdu.aliyuncs.com/aliyun_java/java:V1.0.0
